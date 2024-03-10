@@ -1,0 +1,290 @@
+*{
+    margin:0px;
+    padding:0px;
+    
+    
+
+}
+.sale{
+    position:relative;
+    width:100%;
+    height:30px;
+    background-color:black;
+    color:white;
+    border-radius: 0%;
+    text-align:center;
+    font-size: 1.2rem;
+}
+.searchbox {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    height: 35px;
+    margin: auto;
+    padding-top: 12px;
+}
+
+.searchbox p {
+    font-size: 2rem;
+    margin: 0; /* Remove the default margin */
+}
+
+.box1,
+.box2 {
+    flex: 1; /* Distribute the space evenly */
+}
+
+.box2{
+    size:1.4rem;
+}
+
+.navbar{
+    position:relative;
+    height:50px;
+    width:100%;
+    background-color: white;
+
+}
+.navbar ul {
+    display:flex;
+    font-size: 0.9rem;
+    justify-content: center;
+    padding:10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#payday{
+    text-align:center;
+    font-size:1.3rem;
+    font-family: Arial, sans-serif;
+}
+
+.displayimg{
+    background-image: url("img1.webp");
+    width: 100%;
+    height: 350px;
+    background-size: contain; /* Scale the background image to cover the entire container */
+    background-position: center; /* Center the background image within the container */
+    background-repeat: no-repeat; /* Do not repeat the image */
+       
+}
+.displayimgwomen{
+    background-image: url("women.webp");
+    width: 100%;
+    height: 350px;
+    background-size: contain; /* Scale the background image to cover the entire container */
+    background-position: center; /* Center the background image within the container */
+    background-repeat: no-repeat;
+    
+
+}
+.perfumes{
+   display:grid;
+   justify-content: center;
+   grid-template-columns: auto auto auto auto;
+   grid-template-rows: auto auto;
+   gap: 25px;
+}
+
+.perf{
+    
+    height:200px;
+    width:200px;
+    background-color: grey;
+
+}
+.filter
+{
+    height:60px;
+}
+
+.perf {
+    height: 250px;
+    width: 250px;
+    
+    background-color: grey;
+}
+.l1{
+
+    display:block;
+
+
+}
+
+.rating{
+    display:flex;
+   gap:10px;
+   margin:10px;
+   
+}
+.btn{
+    height:35px;
+    width:250px;
+    font-size:1.1rem;
+    text-align:center;
+    background-color: black;
+    color:white;
+}
+#payday{
+   
+    font-size:1.4rem;
+}
+p{
+    font-size:1.2rem;
+}
+
+#A1 {
+    background-image: url("perf1.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#A2 {
+    background-image: url("perf2.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#A3 {
+    background-image: url("perf3.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#A4 {
+    background-image: url("perf4.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#A5 {
+    background-image: url("perf5.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#A6 {
+    background-image: url("perf6.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#A7 {
+    background-image: url("perf7.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#A8 {
+    background-image: url("perf8.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+#A9 {
+    background-image: url("perf9.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#A10 {
+    background-image: url("perf10.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#A11 {
+    background-image: url("perf11.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#A12 {
+    background-image: url("perf12.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#A13 {
+    background-image: url("perf13.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#A14 {
+    background-image: url("perf14.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#A15 {
+    background-image: url("perf15.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#A16 {
+    background-image: url("perf16.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#A17 {
+    background-image: url("perf17.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#A18 {
+    background-image: url("perf18.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#A19 {
+    background-image: url("perf19.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#A20 {
+    background-image: url("perf20.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.crazydeal{
+    display:flex;
+    width:70%;
+    height:400px;
+   position:relative;
+   margin:auto; 
+   margin-top:25px;
+   margin-bottom:30px;
+    background-color: white;
+}
+.rev{
+    flex-direction: row-reverse;
+   
+}
+.c1{
+    position:relative;
+    padding-left:40px;
+    padding-top:30px;
+    padding-right: 30px;
+    padding-bottom:30px;
+    text-align:justify;
+    margin:auto;
+    display:flex;
+    flex-direction: column;
+    gap:20px;
+   justify-items: center;
+   text-justify:inter-word;
+}
