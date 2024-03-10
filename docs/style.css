@@ -61,7 +61,7 @@
 }
 
 .displayimg{
-    background-image: url("../images/img1.webp");
+    background-image: url("images/img1.webp");
     width: 100%;
     height: 350px;
     background-size: contain; /* Scale the background image to cover the entire container */
@@ -70,7 +70,7 @@
        
 }
 .displayimgwomen{
-    background-image: url("../images/women.webp");
+    background-image: url("images/women.webp");
     width: 100%;
     height: 350px;
     background-size: contain; /* Scale the background image to cover the entire container */
@@ -135,52 +135,52 @@ p{
 }
 
 #A1 {
-    background-image: url("../images/perf1.avif");
+    background-image: url("images/perf1.avif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 #A2 {
-    background-image: url("../images/perf2.avif");
+    background-image: url("images/perf2.avif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 #A3 {
-    background-image: url("../images/perf3.avif");
+    background-image: url("images/perf3.avif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 #A4 {
-    background-image: url("../images/perf4.avif");
+    background-image: url("images/perf4.avif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 #A5 {
-    background-image: url("../images/perf5.avif");
+    background-image: url("images/perf5.avif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 #A6 {
-    background-image: url("../images/perf6.avif");
+    background-image: url("images/perf6.avif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 #A7 {
-    background-image: url("../images/perf7.avif");
+    background-image: url("images/perf7.avif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 #A8 {
-    background-image: url("../images/perf8.avif");
+    background-image: url("images/perf8.avif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -188,73 +188,73 @@ p{
 
 
 #A9 {
-    background-image: url("../images/perf9.avif");
+    background-image: url("images/perf9.avif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 #A10 {
-    background-image: url("../images/perf10.avif");
+    background-image: url("images/perf10.avif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 #A11 {
-    background-image: url("../images/perf11.avif");
+    background-image: url("images/perf11.avif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 #A12 {
-    background-image: url("../images/perf12.avif");
+    background-image: url("images/perf12.avif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 #A13 {
-    background-image: url("../images/perf13.avif");
+    background-image: url("images/perf13.avif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 #A14 {
-    background-image: url("../images/perf14.avif");
+    background-image: url("images/perf14.avif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 #A15 {
-    background-image: url("../images/perf15.avif");
+    background-image: url("images/perf15.avif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 #A16 {
-    background-image: url("../images/perf16.avif");
+    background-image: url("images/perf16.avif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 #A17 {
-    background-image: url("../images/perf17.avif");
+    background-image: url("images/perf17.avif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 #A18 {
-    background-image: url("../images/perf18.avif");
+    background-image: url("images/perf18.avif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 #A19 {
-    background-image: url("../images/perf19.avif");
+    background-image: url("images/perf19.avif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 #A20 {
-    background-image: url("../images/perf20.avif");
+    background-image: url("images/perf20.avif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
